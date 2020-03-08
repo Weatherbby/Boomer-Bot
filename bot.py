@@ -9,7 +9,7 @@ import datetime
 log = open("log.txt", "w")
 song = 'https://www.youtube.com/watch?v=Z_c95XKwUvI'
 source = "C:\\Users\\alexa\\Desktop\\Programming\\DiscordBot\\boomer.mp3"
-TOKEN = 'Njg1OTE4NDkzMzgzNTg5OTUx.XmPpdQ.hTAuhNg_-08_0SbsL4WX4CICVNs'
+TOKEN = 'token'
 bot = commands.Bot(command_prefix = '.')
 
 boomers = []
